@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 8cdd50537e7541245aa38bb24e6ee1c9
+timeCreated: 1448756060
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: iconIdle_0
+    21300002: iconIdle_1
+    21300004: iconIdle_2
+    21300006: iconIdle_3
+    21300008: iconIdle_4
+    21300010: iconIdle_5
+    21300012: iconIdle_6
+    21300014: iconRun_0
+    21300016: iconRun_1
+    21300018: iconRun_2
+    21300020: iconRun_3
+    21300022: iconRun_4
+    21300024: iconRun_5
+    21300026: iconRun_6
+    21300028: iconRun_7
+    21300030: iconPunch_0
+    21300032: iconPunch_1
+    21300034: iconPunch_2
+    21300036: iconPunch_3
+    21300038: iconPunch_4
+    21300040: iconPunch_5
+    21300042: iconPunch_6
+    21300044: iconPunch_7
+    21300046: iconPunch_8
+    21300048: iconKick_0
+    21300050: iconJump_0
+    21300052: iconJump_1
+    21300054: iconJump_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: iconIdle_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 602
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconIdle_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 605
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconIdle_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 613
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconIdle_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 613
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconIdle_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 617
+        width: 78
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconIdle_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 614
+        width: 72
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconIdle_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 616
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 444
+        width: 87
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 444
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 444
+        width: 82
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 444
+        width: 67
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 438
+        width: 68
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 447
+        width: 73
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 442
+        width: 72
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconRun_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 444
+        width: 69
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 296
+        width: 81
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 296
+        width: 83
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 296
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 301
+        width: 72
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 304
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 301
+        width: 66
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 301
+        width: 72
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 304
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconPunch_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 301
+        width: 74
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconKick_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconJump_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 158
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconJump_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 155
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iconJump_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 149
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

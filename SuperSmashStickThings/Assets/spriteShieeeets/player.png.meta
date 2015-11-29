@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: f30d47b6b0e664c41ae07c47fbf04d34
+timeCreated: 1448759452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerIdle_0
+    21300002: playerIdle_1
+    21300004: playerIdle_2
+    21300006: playerIdle_3
+    21300008: playerIdle_4
+    21300010: playerIdle_5
+    21300012: playerIdle_6
+    21300014: playerRun_0
+    21300016: playerRun_1
+    21300018: playerRun_2
+    21300020: playerRun_3
+    21300022: playerRun_4
+    21300024: playerRun_5
+    21300026: playerRun_6
+    21300028: playerRun_7
+    21300030: playerPunch_0
+    21300032: playerPunch_1
+    21300034: playerPunch_2
+    21300036: playerPunch_3
+    21300038: playerPunch_4
+    21300040: playerPunch_5
+    21300042: playerPunch_6
+    21300044: playerPunch_7
+    21300046: playerPunch_8
+    21300048: playerJump_0
+    21300050: playerJump_1
+    21300052: playerJump_2
+    21300054: playerKick_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerIdle_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 610
+        width: 70
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerIdle_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 605
+        width: 79
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerIdle_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 605
+        width: 73
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerIdle_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 607
+        width: 74
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerIdle_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 614
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerIdle_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 610
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerIdle_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 605
+        width: 77
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 441
+        width: 82
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 441
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 442
+        width: 75
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 444
+        width: 64
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 442
+        width: 64
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 442
+        width: 54
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_6
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 442
+        width: 56
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerRun_7
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 450
+        width: 63
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 294
+        width: 73
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 294
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 296
+        width: 66
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 297
+        width: 72
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 297
+        width: 71
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 290
+        width: 66
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 297
+        width: 57
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 290
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerPunch_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 294
+        width: 65
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerJump_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerJump_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 156
+        width: 66
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerJump_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 150
+        width: 59
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerKick_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
